@@ -1,0 +1,10 @@
+Notes on Web  DEvelopment via Codecademy
+  My Home: https://www.codecademy.com/learn
+
+Additional resources
+Docs
+  https://www.codecademy.com/resources/docs/html
+
+Workspaces
+  https://www.codecademy.com/workspaces/new
+
