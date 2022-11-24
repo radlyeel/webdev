@@ -8,3 +8,14 @@ Docs
 Workspaces
   https://www.codecademy.com/workspaces/new
 
+HTML
+  HTML Reference:
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+  HTTP transactions:
+    https://www.codecademy.com/article/http-requests
+  Semantic HTML:
+    https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
+  Regular Expressions:
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+
