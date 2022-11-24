@@ -1,0 +1,13 @@
+* {
+  border-style: solid;
+  border-width: 1 px;
+  border-color: red;
+}
+
+p {
+  color: blue;
+}
+
+h1 {
+  color: maroon;
+}
